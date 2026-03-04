@@ -1,4 +1,4 @@
-DailyTaskTracker
+DailyTaskTracker.
 A Laravel 12 web application for managing daily tasks with user authentication.
 
 Tech Stack
